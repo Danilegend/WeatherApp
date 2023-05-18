@@ -1,0 +1,37 @@
+{
+  "coord": { "lon": 15.709, "lat": 50.814 },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 281.76,
+    "feels_like": 280.45,
+    "temp_min": 280.22,
+    "temp_max": 282.4,
+    "pressure": 1027,
+    "humidity": 75,
+    "sea_level": 1027,
+    "grnd_level": 967
+  },
+  "visibility": 10000,
+  "wind": { "speed": 2.33, "deg": 31, "gust": 4.48 },
+  "clouds": { "all": 83 },
+  "dt": 1684390980,
+  "sys": {
+    "type": 2,
+    "id": 2009619,
+    "country": "PL",
+    "sunrise": 1684379078,
+    "sunset": 1684435365
+  },
+  "timezone": 7200,
+  "id": 7531962,
+  "name": "Podgórzyn",
+  "cod": 200
+}
